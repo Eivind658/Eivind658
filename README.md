@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 9 mins
+Total Time: 8 hrs 22 mins
 
-Unknown   7 hrs 36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.26 %
-C/c++     0 hrs 33 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.74 %
+Unknown   7 hrs 56 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.74 %
+C/c++     0 hrs 24 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.71 %
+Usf       0 hrs 3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.55 %
 ```
 
 <!--END_SECTION:waka-->
